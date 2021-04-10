@@ -1,5 +1,9 @@
 {
     "name": "populus",
+    "publisher" : "tmpr",
+    "repository": {
+        "GitHub": "https://github.com/tmpr/populus"
+    },
     "displayName": "populus",
     "description": "Dual theme based on the design-language of Pop!_OS by System76.",
     "version": "0.0.1",
@@ -19,7 +23,7 @@
             {
                 "label": "Populus Light",
                 "uiTheme": "vs",
-                "path": "./themes/Populus Dark-color-theme.json"
+                "path": "./themes/populus_light.json"
             }
         ]
     }
