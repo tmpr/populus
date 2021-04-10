@@ -1,0 +1,26 @@
+{
+    "name": "populus",
+    "displayName": "populus",
+    "description": "Dual theme based on the design-language of Pop!_OS by System76.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Populus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Populus Dark-color-theme.json"
+            },
+            {
+                "label": "Populus Light",
+                "uiTheme": "vs",
+                "path": "./themes/Populus Dark-color-theme.json"
+            }
+        ]
+    }
+}
