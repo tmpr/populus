@@ -38,7 +38,7 @@
 		"peekViewEditor.matchHighlightBackground": "#48c7a12d",
 		"peekViewTitle.background": "#F3F3F3",
 		"peekView.border": "#48b8c7",
-		"errorForeground": "#E56A54",
+		"errorForeground": "#E56A54"
 	},
 	"tokenColors": [
 		{
@@ -278,7 +278,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#40a7b4"
 			}
 		},
 		{
