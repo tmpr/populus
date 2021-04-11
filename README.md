@@ -2,7 +2,7 @@
 
 > Populus is a genus of 25–30 species of deciduous flowering plants in the family Salicaceae, native to most of the Northern Hemisphere. English names variously applied to different species include poplar /ˈpɒp.lər/, aspen, and cottonwood. - Wikipedia
 
-![Screenshot of Theme](./theme.jpg)
+![Screenshot of Theme](https://raw.githubusercontent.com/tmpr/populus/master/theme.jpg)
 
 
 
