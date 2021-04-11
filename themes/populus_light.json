@@ -38,7 +38,10 @@
 		"peekViewEditor.matchHighlightBackground": "#48c7a12d",
 		"peekViewTitle.background": "#F3F3F3",
 		"peekView.border": "#48b8c7",
-		"errorForeground": "#E56A54"
+		"errorForeground": "#E56A54",
+		"settings.modifiedItemIndicator": "#48b8c7",
+		"editor.lineHighlightBackground": "#48b8c70a",
+		"editor.selectionBackground": "#ffae0049"
 	},
 	"tokenColors": [
 		{
@@ -107,12 +110,10 @@
 		{
 			"name": "Language Constants",
 			"scope": [
-				"constant.language",
-				"support.constant",
-				"variable.language"
+				"constant.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#c170d1",
 			}
 		},
 		{
@@ -122,7 +123,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#4158b3"
+				"foreground": "#435dc4"
 			}
 		},
 		{
@@ -176,7 +177,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#a7714f"
+				"foreground": "#9cad4c"
 			}
 		},
 		{
@@ -268,7 +269,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#e05c4b"
 			}
 		},
 		{
@@ -278,7 +279,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#40a7b4"
+				"foreground": "#48b9c7"
 			}
 		},
 		{
@@ -289,7 +290,8 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#82BF8C",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -324,7 +326,7 @@
 			"name": "Markup: Error",
 			"scope": "markup.error",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#66#82BF8C0000"
 			}
 		},
 		{
@@ -338,7 +340,7 @@
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#63B1BC"
 			}
 		},
 		{
@@ -362,7 +364,7 @@
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#AA3731"
+				"foreground": "#e05c4b"
 			}
 		},
 		{
@@ -390,7 +392,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#EA9090"
 			}
 		},
 		{
@@ -407,7 +409,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#1494a5"
 			}
 		},
 		{
