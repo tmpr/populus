@@ -4,9 +4,9 @@
     "repository": {
         "GitHub": "https://github.com/tmpr/populus"
     },
-    "displayName": "populus",
+    "displayName": "Populus Theme",
     "description": "Dual theme based on the design-language of Pop!_OS by System76.",
-    "version": "0.0.1",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -18,7 +18,7 @@
             {
                 "label": "Populus Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Populus Dark-color-theme.json"
+                "path": "./themes/populus_dark.json"
             },
             {
                 "label": "Populus Light",
