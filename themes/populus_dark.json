@@ -9,7 +9,7 @@
 		"activityBar.foreground": "#cccccc",
 		"activityBar.activeBorder": "#94EBEB",
 		"statusBar.background": "#363636",
-		"statusBar.debuggingBackground": "#FEDB40",
+		"statusBar.debuggingBackground": "$text_yellow",
 		"badge.background": "#FBB86C",
 		"list.activeSelectionBackground": "#94EBEB",
 		"list.activeSelectionForeground": "#000",
@@ -44,7 +44,8 @@
 		"list.dropBackground": "#94ebeb54",
 		"settings.modifiedItemIndicator": "#48b8c7",
 		"editor.lineHighlightBackground": "#48b8c70a",
-		"editor.selectionBackground": "#ffae0049"
+		"editor.selectionBackground": "#ffae0049",
+		"statusBar.debuggingForeground": "#000"
 	},
 "tokenColors": [
 	{
@@ -79,7 +80,7 @@
 		"name": "Invalid - Illegal",
 		"scope": "invalid.illegal",
 		"settings": {
-			"foreground": "#660000"
+			"foreground": "#d23737"
 		}
 	},
 	{
@@ -117,7 +118,7 @@
 			"variable.language"
 		],
 		"settings": {
-			"foreground": "#AB6526"
+			"foreground": "#d09058"
 		}
 	},
 	{
@@ -127,7 +128,7 @@
 			"support.variable"
 		],
 		"settings": {
-			"foreground": "#8ca0f0"
+			"foreground": "#768ac6"
 		}
 	},
 	{
@@ -156,7 +157,7 @@
 		"name": "Exceptions",
 		"scope": "entity.name.exception",
 		"settings": {
-			"foreground": "#660000"
+			"foreground": "#d23737"
 		}
 	},
 	{
@@ -202,7 +203,7 @@
 		"name": "Strings: Symbols",
 		"scope": "constant.other.symbol",
 		"settings": {
-			"foreground": "#AB6526"
+			"foreground": "#d09058"
 		}
 	},
 	{
@@ -251,7 +252,7 @@
 		],
 		"settings": {
 			"fontStyle": "italic",
-			"foreground": "#91B3E0"
+			"foreground": "#ebacac"
 		}
 	},
 	{
@@ -261,7 +262,7 @@
 			"punctuation.definition.entity"
 		],
 		"settings": {
-			"foreground": "#AB6526"
+			"foreground": "#d23737"
 		}
 	},
 	{
@@ -329,7 +330,7 @@
 		"name": "Markup: Error",
 		"scope": "markup.error",
 		"settings": {
-			"foreground": "#660000"
+			"foreground": "#d23737"
 		}
 	},
 	{
@@ -381,7 +382,7 @@
 		"name": "Markup: Traceback",
 		"scope": "markup.traceback",
 		"settings": {
-			"foreground": "#660000"
+			"foreground": "#d23737"
 		}
 	},
 	{
@@ -420,7 +421,7 @@
 		"scope": "markup.inline.raw",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#AB6526"
+			"foreground": "#d09058"
 		}
 	},
 	{
