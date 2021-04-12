@@ -334,7 +334,7 @@
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#777777"
 			}
 		},
 		{
