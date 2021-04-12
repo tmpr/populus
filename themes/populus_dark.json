@@ -309,14 +309,14 @@
 		"name": "Markup: Changed",
 		"scope": "markup.changed",
 		"settings": {
-			"foreground": "#000000"
+			"foreground": "#82BF8C"
 		}
 	},
 	{
 		"name": "Markup: Deletion",
 		"scope": "markup.deleted",
 		"settings": {
-			"foreground": "#000000"
+			"foreground": "#ebacac"
 		}
 	},
 	{
@@ -337,7 +337,7 @@
 		"name": "Markup: Insertion",
 		"scope": "markup.inserted",
 		"settings": {
-			"foreground": "#000000"
+			"foreground": "#b1b1b1"
 		}
 	},
 	{
@@ -354,14 +354,14 @@
 			"markup.raw"
 		],
 		"settings": {
-			"foreground": "#777777"
+			"foreground": "#b1b1b1"
 		}
 	},
 	{
 		"name": "Markup: Prompt",
 		"scope": "markup.prompt",
 		"settings": {
-			"foreground": "#777777"
+			"foreground": "#b1b1b1"
 		}
 	},
 	{
@@ -432,21 +432,21 @@
 			"meta.separator"
 		],
 		"settings": {
-			"foreground": "#434343"
+			"foreground": "#b1b1b1"
 		}
 	},
 	{
 		"name": "Extra: Diff From",
 		"scope": "meta.diff.header.from-file",
 		"settings": {
-			"foreground": "#434343"
+			"foreground": "#b1b1b1"
 		}
 	},
 	{
 		"name": "Extra: Diff To",
 		"scope": "meta.diff.header.to-file",
 		"settings": {
-			"foreground": "#434343"
+			"foreground": "#b1b1b1"
 		}
 	}
 ]
