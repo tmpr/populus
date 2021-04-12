@@ -16,6 +16,8 @@ The theme is readily available to download [here](https://marketplace.visualstud
 ### Tribute 🗽
 Of course, this theme just heavily leans on the GTK-theme of Pop!_OS by [System76](https://system76.com/). Most of the color-picking was done by them, so check them out! 🤗
 
+Nevertheless, this repository/extension is not officially affiliated with System76.
+
 ### Other Pop!-inspired Themes 💕
 
 If this Pop!-theme does not fit one's taste, there are others which might do better:
