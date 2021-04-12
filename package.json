@@ -4,10 +4,10 @@
     "repository": {
         "GitHub": "https://github.com/tmpr/populus"
     },
-    "icon": "https://raw.githubusercontent.com/tmpr/populus/master/logo.png",
+    "icon": "logo.png",
     "displayName": "Populus Theme",
     "description": "Dual theme based on the the Pop!_OS GTK-Theme.",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.46.0"
     },
