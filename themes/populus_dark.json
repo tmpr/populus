@@ -9,7 +9,7 @@
 		"activityBar.foreground": "#cccccc",
 		"activityBar.activeBorder": "#94EBEB",
 		"statusBar.background": "#363636",
-		"statusBar.debuggingBackground": "$text_yellow",
+		"statusBar.debuggingBackground": "#F9D87A",
 		"badge.background": "#FBB86C",
 		"list.activeSelectionBackground": "#94EBEB",
 		"list.activeSelectionForeground": "#000",
@@ -31,7 +31,7 @@
 		"settings.textInputBackground": "#292929",
 		"minimap.findMatchHighlight": "#FBB86C",
 		"minimap.errorHighlight": "#E56A54",
-		"minimap.warningHighlight": "#FEDB40",
+		"minimap.warningHighlight": "#F9D87A",
 		"minimapGutter.modifiedBackground": "#48b8c7",
 		"minimap.selectionHighlight": "#cccccc",
 		"editor.wordHighlightBackground": "#cccccc",
@@ -411,7 +411,8 @@
 		"scope": [
 			"markup.bold",
 			"markup.italic"
-		],
+		],FEDB40
+		FEDB40
 		"settings": {
 			"foreground": "#448C27"
 		}
