@@ -2,8 +2,9 @@
 
 All notable changes to the "populus-dark" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 0.1.4
+- Change list-color for markup languages to a more intense shade of the default foreground color.
 
-## [Unreleased]
+- Change Border of Quote-Blocks to Mint
 
-- Initial release
+- Added First Git colors

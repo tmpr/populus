@@ -24,7 +24,8 @@
 		"settings.checkboxBorder": "#FBB86C",
 		"checkbox.border": "#FBB86C",
 		"focusBorder": "#FBB86C",
-		"textBlockQuote.background": "#493535",
+		"textBlockQuote.background": "#272727",
+		"textBlockQuote.border": "#90CFB0",
 		"textLink.foreground": "#63B1BC",
 		"selection.background": "#48b8c7",
 		"sash.hoverBorder": "#FBB86C",
@@ -45,7 +46,9 @@
 		"settings.modifiedItemIndicator": "#48b8c7",
 		"editor.lineHighlightBackground": "#48b8c70a",
 		"editor.selectionBackground": "#ffae0049",
-		"statusBar.debuggingForeground": "#000"
+		"statusBar.debuggingForeground": "#000",
+		"gitDecoration.addedResourceForeground": "#90CFB0",
+		"gitDecoration.modifiedResourceForeground": "#94EBEB"
 	},
 "tokenColors": [
 	{
@@ -403,7 +406,7 @@
 		"name": "Markup Lists",
 		"scope": "markup.list",
 		"settings": {
-			"foreground": "#4B83CD"
+			"foreground": "#eee"
 		}
 	},
 	{
