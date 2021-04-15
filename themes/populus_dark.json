@@ -13,10 +13,9 @@
 		"badge.background": "#FBB86C",
 		"list.activeSelectionBackground": "#94EBEB",
 		"list.activeSelectionForeground": "#000",
-		"list.inactiveSelectionForeground": "#333",
+		"list.inactiveSelectionBackground": "#94EBEB41",
 		"list.focusOutline": "#94EBEB",
 		"list.filterMatchBorder": "#94EBEB",
-		"list.inactiveSelectionBackground": "#94EBEB",
 		"activityBarBadge.background": "#FBB86C",
 		"activityBarBadge.foreground": "#111",
 		"button.background": "#90CFB0",
@@ -47,8 +46,7 @@
 		"editor.lineHighlightBackground": "#48b8c70a",
 		"editor.selectionBackground": "#ffae0049",
 		"statusBar.debuggingForeground": "#000",
-		"gitDecoration.addedResourceForeground": "#90CFB0",
-		"gitDecoration.modifiedResourceForeground": "#94EBEB"
+		"gitDecoration.addedResourceForeground": "#90CFB0"
 	},
 "tokenColors": [
 	{
