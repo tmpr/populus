@@ -2,19 +2,18 @@
 	"name": "Populus Dark",
 	"type": "dark",
 	"colors": {
-		"menu.selectionBackground": "#292929",
-		"editor.background": "#303030",
+		"menu.selectionBackground": "#303030",
+		"editor.background": "#2e2e2e",
 		"editor.foreground": "#cccccc",
-		"activityBar.background": "#272727",
+		"activityBar.background": "#303030",
 		"activityBar.foreground": "#cccccc",
 		"activityBar.activeBorder": "#94EBEB",
 		"statusBar.background": "#363636",
 		"statusBar.debuggingBackground": "#F9D87A",
 		"badge.background": "#FBB86C",
-		"list.activeSelectionBackground": "#94EBEB",
-		"list.activeSelectionForeground": "#000",
+		"list.activeSelectionBackground": "#94EBE1AA",
 		"list.inactiveSelectionBackground": "#94EBEB41",
-		"list.focusOutline": "#94EBEB",
+		"list.focusOutline": "#94EBE101",
 		"list.filterMatchBorder": "#94EBEB",
 		"activityBarBadge.background": "#FBB86C",
 		"activityBarBadge.foreground": "#111",
@@ -46,7 +45,11 @@
 		"editor.lineHighlightBackground": "#48b8c70a",
 		"editor.selectionBackground": "#ffae0049",
 		"statusBar.debuggingForeground": "#000",
-		"gitDecoration.addedResourceForeground": "#90CFB0"
+		"gitDecoration.addedResourceForeground": "#90CFB0",
+		"notebook.cellToolbarSeparator": "#272727",
+		"list.focusBackground": "#303030",
+		"sideBar.background": "#303030",
+		"sideBarSectionHeader.background": "#363636"
 	},
 "tokenColors": [
 	{
