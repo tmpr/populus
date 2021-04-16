@@ -49,7 +49,10 @@
 		"notebook.cellToolbarSeparator": "#272727",
 		"list.focusBackground": "#303030",
 		"sideBar.background": "#303030",
-		"sideBarSectionHeader.background": "#363636"
+		"sideBar.border": "#222",
+		"sideBarSectionHeader.background": "#363636",
+		"tab.border": "#555",
+		"tab.inactiveBackground": "#282828"
 	},
 "tokenColors": [
 	{
