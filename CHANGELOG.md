@@ -22,3 +22,9 @@ All notable changes to the "populus-dark" extension will be documented in this f
 
 - Change inactive list selection background to a more transparent blue, such that 
   git decoration colors are never the same as the background.
+
+### 0.2.1
+
+- In dark theme, the background of words when selected was the same as the foreground, making the word invisible. The color is now a light lavender.
+
+- In light theme, the background of a modified file when selected was the same as the foreground. This was also changed now.
