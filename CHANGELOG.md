@@ -28,3 +28,10 @@ All notable changes to the "populus-dark" extension will be documented in this f
 - In dark theme, the background of words when selected was the same as the foreground, making the word invisible. The color is now a light lavender.
 
 - In light theme, the background of a modified file when selected was the same as the foreground. This was also changed now.
+
+### 0.2.2
+
+- Changed operator color to lavender
+
+- **Dark theme**: Fixed comment indicator (`#`) to be the same color as the comment itself.
+
