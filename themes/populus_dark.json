@@ -68,10 +68,13 @@
 	},
 	{
 		"name": "Comments: Preprocessor",
-		"scope": "comment.block.preprocessor",
+		"scope": [
+			"comment.block.preprocessor",
+			"punctuation.definition.comment"
+		],
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#cccccc"
+			"foreground": "#747474"
 		}
 	},
 	{
@@ -95,7 +98,7 @@
 		"name": "Operators",
 		"scope": "keyword.operator",
 		"settings": {
-			"foreground": "#c5c5c5"
+			"foreground": "#FBB86C"
 		}
 	},
 	{
@@ -165,7 +168,7 @@
 		"name": "Exceptions",
 		"scope": "entity.name.exception",
 		"settings": {
-			"foreground": "#d23737"
+			"foreground": "#9575CD"
 		}
 	},
 	{
